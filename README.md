@@ -13,7 +13,7 @@ With remote list:
 
 	./check_have-I-been-pwned.sh -u \<API url\> -g \<remote git containing email.list\>
 
-Exemple
+Example
 =======
 
 	./check_have-I-been-pwned.sh -u "https://api.haveibeenpwned.com" -e "/tmp/email.list"
